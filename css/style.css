@@ -383,8 +383,8 @@ section .container {
 }
 
 .home .intro img {
-  height: 350px;
-  width: 290px;
+  height: 315px;
+  width: 270px;
   /* border-radius: 50%; */
   display: inline-block;
   border: 8px solid #ffffff;
@@ -392,7 +392,7 @@ section .container {
 
 .home .intro h1 {
   font-size: 30px;
-  color: #302e4d;
+  color: #ffffff;
   font-weight: 700;
   margin: 20px 0 6px;
 }
