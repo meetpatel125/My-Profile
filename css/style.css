@@ -271,8 +271,8 @@ section .container {
 }
 
 .aside .nav-toggler {
-  height: 40px;
-  width: 45px;
+  height: 100px;
+  width: 100px;
   border: 1px solid #d4d4e3;
   cursor: pointer;
   position: fixed;
